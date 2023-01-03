@@ -29,7 +29,7 @@ jobs:
 
       # Build project
       - name: Build project
-        run: echo 'thomassoard.com' > ./dist/CNAME && npm run-script build
+        run: echo 'thomassoard.com' > ./CNAME && npm run-script build
 
       # Push to Github Pages
       - name: Github Pages
