@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
-    "build": "echo 'thomassoard.com' > ./dist/CNAME && parcel build"
+    "build": "echo 'thomassoard.com' > ./CNAME && parcel build"
   },
   "repository": {
     "type": "git",
