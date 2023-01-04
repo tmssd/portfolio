@@ -5,7 +5,7 @@
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": [
     "src/index.html",
-    "./src/CNAME"
+    "src/CNAME"
   ],
   "scripts": {
     "start": "parcel",
